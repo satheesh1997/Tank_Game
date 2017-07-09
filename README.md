@@ -1,3 +1,3 @@
 # Tank_Game
 Simple Tank Game Using Python
-[!Screen](screen.png)
+[!screenshot](screen.png)
